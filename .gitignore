@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Streamlit secrets
+.secrets.toml
+.env
+*.env
+
+# Virtual envs
+venv/
+env/
+.venv/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# ChromaDB local storage
+db/
+vectorstore/
+chromadb/
+
+# Uploaded files
+uploads/
