@@ -21,3 +21,4 @@ fastapi
 uvicorn
 python-dotenv
 langchain-google-genai
+pypdf
