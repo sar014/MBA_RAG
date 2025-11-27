@@ -13,7 +13,7 @@
 
 langchain==0.2.10
 langchain-community==0.2.10
-langchain-core==0.2.22  # <-- CHANGED THIS LINE
+langchain-core==0.2.23  # <-- CHANGED THIS LINE (from 0.2.22)
 pydantic>=2.7.4,<3.0.0
 tiktoken
 faiss-cpu
