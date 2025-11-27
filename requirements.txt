@@ -3,7 +3,7 @@ langchain-core==1.1.0
 langchain-community==0.2.0
 langchain-google-genai==1.0.5
 
-pydantic==2.6.4
+pydantic==2.7.4
 pydantic_core==2.16.3
 
 chromadb==0.5.0
