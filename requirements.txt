@@ -22,3 +22,4 @@ uvicorn
 python-dotenv
 langchain-google-genai
 pypdf
+sentence-transformers
