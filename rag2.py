@@ -35,11 +35,17 @@ Do NOT add external knowledge.
 Question: {question}
 Context: {context}
 
-Rules:
-- Be factual and concise
-- If the question uses different wording (e.g., "recommendations" vs "solutions"), interpret it naturally.
-- Consulting style with bullet points
-- Only say "The case document does not provide this information" if the context has absolutely NO related details.
+Do’s:
+- Be factual
+- Be concise
+- Follow MBA consulting frameworks
+- Provide point-wise answers
+- If recommendation → include rationale + action plan
+- If the answer is not in the context, say "The case document does not provide this information."
+
+Don’ts:
+- Do NOT hallucinate
+- Do NOT invent data not found in the case
 
 Format:
 - Bullet points
