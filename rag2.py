@@ -37,8 +37,9 @@ Context: {context}
 
 Rules:
 - Be factual and concise
+- If the question uses different wording (e.g., "recommendations" vs "solutions"), interpret it naturally.
 - Consulting style with bullet points
-- If not enough info: "The case document does not provide this information."
+- Only say "The case document does not provide this information" if the context has absolutely NO related details.
 
 Format:
 - Bullet points
